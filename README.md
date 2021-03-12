@@ -1,14 +1,14 @@
 # **PowerShell-Scripts**
 Collection of all PowerShell scripts I created for solving various problems
 
-**Duo_admin_lifecycle_notifier_script**
+**1. Duo_admin_lifecycle_notifier_script**
 
-Description: script to automatically notify a particular AD group upon departure/deactivation of a Duo admin account. 
-
-Prerequisites: to run this script, these modules must be present in your Powershell environment.
-
-  i. Activedirectory
+	Description: script to automatically notify a particular AD group upon departure/deactivation of a Duo admin account. 
 	
-  ii. Duo-PSModule @https://github.com/mbegan/Duo-PSModule
+	Prerequisites: to run this script, these modules must be present in your Powershell environment.
+
+  		i. Activedirectory
 	
-Recommendation: To enable automatic run of this script at a regular predefined interval, use Windows task-scheduler
+  		ii. Duo-PSModule @https://github.com/mbegan/Duo-PSModule
+	
+	Recommendation: To enable automatic run of this script at a regular predefined interval, use Windows task-scheduler

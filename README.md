@@ -1,7 +1,7 @@
-# PowerShell-Scripts
+# **PowerShell-Scripts**
 Collection of all PowerShell scripts I created for solving various problems
 
-1. **Duo_admin_lifecycle_script**
+**Duo_admin_lifecycle_notifier_script**
 
 Description: script to automatically notify a particular AD group upon departure/deactivation of a Duo admin account. 
 
